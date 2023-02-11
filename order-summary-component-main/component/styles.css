@@ -65,6 +65,16 @@ body{
     align-items: center;
 }
 
+.plan-container a {
+    color: var(--Bright-blue);
+    font-size: 13px;
+    font-weight: 700;
+}
+.plan-container a:hover{
+    opacity: 0.8;
+    text-decoration: none;
+}
+
 
 button{
     width: 100%;

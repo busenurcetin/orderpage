@@ -47,6 +47,9 @@ body{
 .container{
     padding: 30px;
 }
+.container >*{
+    margin: 13px 0;
+}
 .order-description{
     line-height: 25px;
 }

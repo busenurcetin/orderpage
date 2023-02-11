@@ -23,4 +23,9 @@ body{
      background-color: white;
      color: var(--Desaturated-blue);
 }
+.title{
+    color:var(--Dark-blue);
+    font-weight: 900;
+    font-size: 32px;
+}
 

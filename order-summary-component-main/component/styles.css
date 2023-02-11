@@ -9,6 +9,9 @@
 --Dark-blue: hsl(223, 47%, 23%);
 }
 
+body{
+    background-image: url(./images/pattern-background-desktop.svg);
+}
 
 
 .card{
